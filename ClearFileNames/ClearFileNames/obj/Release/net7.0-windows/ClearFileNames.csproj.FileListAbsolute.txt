@@ -1,0 +1,17 @@
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\ClearFileNames.exe
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\ClearFileNames.deps.json
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\ClearFileNames.runtimeconfig.json
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\ClearFileNames.pdb
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.csproj.AssemblyReference.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.Form1.resources
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.csproj.GenerateResource.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.AssemblyInfoInputs.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.AssemblyInfo.cs
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.csproj.CoreCompileInputs.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\refint\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.pdb
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ClearFileNames.genruntimeconfig.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\ref\ClearFileNames.dll

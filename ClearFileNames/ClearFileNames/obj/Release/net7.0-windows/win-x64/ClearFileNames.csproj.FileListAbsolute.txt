@@ -1,0 +1,17 @@
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\win-x64\ClearFileNames.exe
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\win-x64\ClearFileNames.deps.json
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\win-x64\ClearFileNames.runtimeconfig.json
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\win-x64\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\win-x64\ClearFileNames.pdb
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.csproj.AssemblyReference.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.Form1.resources
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.csproj.GenerateResource.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.AssemblyInfoInputs.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.AssemblyInfo.cs
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.csproj.CoreCompileInputs.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\refint\ClearFileNames.dll
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.pdb
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ClearFileNames.genruntimeconfig.cache
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\obj\Release\net7.0-windows\win-x64\ref\ClearFileNames.dll

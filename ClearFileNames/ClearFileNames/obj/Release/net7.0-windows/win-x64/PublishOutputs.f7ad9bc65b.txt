@@ -1,0 +1,2 @@
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\publish\win-x64\ClearFileNames.pdb
+C:\Users\anapc\source\repos\ClearFileNames\ClearFileNames\bin\Release\net7.0-windows\publish\win-x64\ClearFileNames.exe
